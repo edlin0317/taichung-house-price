@@ -9,8 +9,8 @@ https://taichunghouseprice.herokuapp.com/model_api?city=B&district=B07&year=108&
 
 # Result
 {"p":306097,"tp":1435}\
-p : 估計每坪單價\
-tp : 估計交易總價
+p : 估計每坪單價(單位:新台幣元)\
+tp : 估計交易總價(單位:新台幣百萬元)
 
 # Parameters
 city      縣市(必填,目前只提供 B = 台中)\
