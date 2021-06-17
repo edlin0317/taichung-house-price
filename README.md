@@ -3,9 +3,9 @@
 Model 以 xgboost XGBRegressor 訓練
 
 # Demo link
-https://taichunghouseprice.herokuapp.com/model_api?city=B&district=B07&year=108&lat=24.124566887961176&lon=120.67507110914983&bs=0.6&g=0&l=1&room=2&living=1&toilet=1&s=50&real_s=30
+https://taichunghouseprice.herokuapp.com/model_api?city=B&district=B03&year=108&lat=24.124566887961176&lon=120.67507110914983&bs=0.6&g=0&l=1&room=2&living=1&toilet=1&s=50&real_s=30
 
-https://taichunghouseprice.herokuapp.com/model_api?city=B&district=B07&year=108&lat=24.124566887961176&lon=120.67507110914983
+https://taichunghouseprice.herokuapp.com/model_api?city=B&district=B03&year=108&lat=24.124566887961176&lon=120.67507110914983
 
 # Result
 {"p":306097,"tp":1435}\
