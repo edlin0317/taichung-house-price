@@ -34,4 +34,4 @@ django_datascience.zip
 
 demo 帳戶資訊 \
 帳號；123456 \
-密碼；abcabcabc \
+密碼；abcabcabc
