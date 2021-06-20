@@ -27,3 +27,9 @@ room    房(預設=3)\
 living  廳(預設=2)\
 toilet  衛(預設=2)\
 real_s  主建物坪數(預設=bs * s)
+
+# 前端 - django 3.2.4
+
+demo 帳戶資訊
+帳號；123456
+密碼；abcabcabc
