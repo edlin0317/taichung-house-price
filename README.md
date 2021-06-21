@@ -30,7 +30,7 @@ real_s  主建物坪數(預設=bs * s)
 
 # 前端 - django 3.2.4
 
-請參考 django_datascience.zip
+請參考 datascience2.zip
 
 demo 帳戶資訊 \
 帳號；123456 \
