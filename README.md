@@ -30,6 +30,8 @@ real_s  主建物坪數(預設=bs * s)
 
 # 前端 - django 3.2.4
 
+以django前端製作使用者串接API之介面
+
 請參考 datascience2.zip
 
 demo 帳戶資訊 \
